@@ -7,7 +7,7 @@
 Post Your Work on GitHub
 
 ### Description
-For this project, you'll use Git to improve upon your previous Project 2 by replicating a real-world workflow.
+In this project, you'll apply Git to elevate your previous Project 2 by emulating an authentic workflow.
 
 ### Files used
 Include the files used
